@@ -1,0 +1,22 @@
+{
+  "name": "producer-consumer",
+  "version": "1.0.0",
+  "description": "Simple Kafka producer and consumer",
+  "main": "producer/producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-emabishi/wwke-kafka.git"
+  },
+  "author": "Elizabeth Mabishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-emabishi/wwke-kafka/issues"
+  },
+  "homepage": "https://github.com/andela-emabishi/wwke-kafka#readme",
+  "dependencies": {
+    "no-kafka": "^3.0.1"
+  }
+}
